@@ -1,0 +1,21 @@
+{
+  "short_name": "Ruta Costa",
+  "name": "Ruta Costa - Transporte San Andrés Tuxtla",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ece2c9",
+  "theme_color": "#0e2617",
+  "display": "standalone",
+  "orientation": "portrait"
+}
